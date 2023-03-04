@@ -1,0 +1,6 @@
+{
+    "vsicons.presets.angular": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/547fca1e-c205-42d1-a48e-80f61814a454/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/COMP229-F2020-MidTerm-301269672",
+    "appService.deploySubpath": ".",
+    "git.ignoreLimitWarning": true
+}
